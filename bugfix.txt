@@ -1,3 +1,4 @@
  # FIX.TXT
 Ovo je bugfix fajl
 Moj change za pull request
+Novi bugfix za stash
