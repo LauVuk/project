@@ -1,1 +1,2 @@
 Ovo je bugfix fajl
+Moj change za pull request
