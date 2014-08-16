@@ -2,3 +2,4 @@
 Ovo je bugfix fajl
 Moj change za pull request
 Novi bugfix za stash
+Jos jedan bugfix
